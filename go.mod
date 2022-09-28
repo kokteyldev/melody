@@ -1,4 +1,4 @@
-module github.com/olahol/melody
+module github.com/kokteyldev/melody
 
 go 1.19
 
